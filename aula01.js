@@ -8,3 +8,9 @@ console.log(texto.toUpperCase()); // converte para maiusculos;
 console.log(typeof texto()); // retorna o tipo da variavel;
 console.log(ativo.toString()); //retorna o tipo da variavel;
 console.log(typeof ativo());// retorna o tipo da variavel;
+
+let estados = ['São Paulo', 'Minas Gerais',' Rondônia', 'Acre'];
+let marcasCarros = [];
+marcasCarros.push('Toyota');
+console.log(estados[2]);
+console.log(marcasCarros[0]);
